@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stat_386 HW 1 - Git Practice # Make a title for your blog
+title: Stat 386 - Practicing and Perfecting Data Science Processes # Make a title for your blog
 email: erictreid514@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
  This blog shows several basic commands in git. This focuses on creating and initializing repositories and dealing with branches. This will contain future assignments as well.
