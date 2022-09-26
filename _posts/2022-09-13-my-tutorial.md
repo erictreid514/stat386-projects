@@ -14,7 +14,7 @@ An essential aspect of statistics is understanding the distributions of random v
 
 A good way to understand how random variable distributions can translate to calculating probabilities is to use an actual distribution. A common distribution of random variables is called the Poisson Distribution. This distribution deals with discrete variables, which are variables that are finite in nature. Also, these variables are collected in a specified range of time. The only parameter we need for this distribution is lambda which is the mean. An example of this would be in the number of customers entering into a store during a randomly selected hour. we know that the number of people entering has to be a whole number, so x could be 1,2,3...100+. We can assume that the mean is 25. After locking in the distribution of x, we can use statistical arithmetic and R to caluclate probabilities related to different values of x. An example given the customer scenario could look something like this:
 
-![an image caption Source: Ultimate Funny Dog Videos Compilation 2013.](images/images/Poisson_Plot.jpeg)
+![Example Poisson Plot](images/images/Poisson_Plot.jpeg)
 
 What is the probability that 20 people walk into the store during this hour if the mean (lambda) is 25?
 
