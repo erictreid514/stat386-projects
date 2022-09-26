@@ -6,6 +6,8 @@ author: Eric Reid
 description: A tutorial about calculating probabilities from distributions
 image: /assets/images/poisson_distribution.png
 ---
+No matter where you are in society, you are destined to come across statistics. Often, you'll see this in political campaigns as there are discussions on approval ratings and tax rates. You may also see them when watching a sporting event. Many of these statistics deal with things that have already happened, but an integral aspect of statistics is using the past to try and predict the future. If you've wondered if you can predict what the next card in a deck will be before laying down a large bet at the black-jack table, or if you are wondering what color eyes you future nieces and nephews will have, then you have to learn about how probabilities for these events can be calculated. Fortunately, statistical software like R, can make this process much simpler than you may think possible now.
+
 ### Background on Data Distributions
 
 An essential aspect of statistics is understanding the distributions of random variables. If we know how a random variable is distributed, then we can use this information to calculate probabilities of certain events occurring based on the data that has been collected. The statistical software R has many built in packages that work effectively with random variable distributions. In this blog, I will give a couple examples of what this will look like.
