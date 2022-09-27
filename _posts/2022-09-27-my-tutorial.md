@@ -39,4 +39,4 @@ ppois(19, lambda = 25)
 0.1335748
 ```
 
-This is a simple example, but it can be used in more situations than just trying to figure out how many customers walk into a store. You could use R to calculate the probability of drawing a spade from a deck of cards using the binomial distribution functions. If you know how a variable is distributed, then the powers of interpretation and prediction can guide you to make an estimated guess on what can happen. 
+This is a simple example, but it can be used in more situations than just trying to figure out how many customers walk into a store. You could use R to calculate the probability of drawing a spade from a deck of cards using the binomial distribution functions. If you know how a variable is distributed, then the powers of interpretation and prediction can guide you to make an estimated guess on what can happen. If you have any experience using these functions, please leave a comment with any advice that you have. If you have an idea of something you would like to see if it could be predicted using these functions, also feel free to post your ideas below!
