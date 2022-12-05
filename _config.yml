@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  This blog features a few examples of the work that I have done analyzing different data with python and git. This blog shows my established foundational skills with data processes.
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://erictreid514.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "assets/images/image5.jpg"
+image: "assets/images/chicago.jpg"
 author: Eric Reid
 copyright: ETR # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
