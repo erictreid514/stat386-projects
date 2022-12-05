@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stat 386 - Practicing and Perfecting Data Science Processes # Make a title for your blog
+title: My Experience with Analyzing Data Using Python and Git
 email: erictreid514@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
- This blog shows several basic commands in git. This focuses on creating and initializing repositories and dealing with branches. This will contain future assignments as well.
+ This blog features a few examples of the work that I have done analyzing different data with python and git. This blog shows my established foundational skills with data processes.
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://erictreid514.github.io" #  change this to "https://<your-github-username>.github.io"
 image: "assets/images/image5.jpg"
