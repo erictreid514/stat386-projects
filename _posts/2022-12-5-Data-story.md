@@ -4,7 +4,7 @@ title:  "Using R to Predict the Future with Probability Distributions"
 date:   2022-12-05
 author: Eric Reid
 description: Here is a fun description
-image: /assets/images/poisson_distribution.png
+image: /assets/images/bob_gibson.jpeg
 ---
 
 ### Summary of Project
