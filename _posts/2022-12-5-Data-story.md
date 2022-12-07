@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Using R to Predict the Future with Probability Distributions"
+title:  "Baseball Pitching Performance Before and After 1969"
 date:   2022-12-05
 author: Eric Reid
-description: Here is a fun description
+description: This blog examines the changes in pitching performance after significant changes were introduced by Major League Baseball in between the 1968 and 1969 seasons.
 image: /assets/images/bob_gibson.jpeg
 ---
 
